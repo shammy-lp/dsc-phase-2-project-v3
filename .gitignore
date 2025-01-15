@@ -1,5 +1,4 @@
 
-# Ignore database file
+# Ignore database file and csv file 
 im.db
-
 tmdb.movies.csv
