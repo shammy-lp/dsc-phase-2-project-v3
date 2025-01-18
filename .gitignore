@@ -2,3 +2,5 @@
 # Ignore database file and csv file 
 im.db
 tmdb.movies.csv
+tn.movie_budgets.csv
+bom.movie_gross.csv
