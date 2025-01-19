@@ -22,6 +22,8 @@ In the folder `zippedData` are movie datasets from:
 * [The Numbers](https://www.the-numbers.com/)
 
 ### Interactive Analysis With Tableau
+- Explore the insights and trends from the Movie Ratings Dataset through our interactive Tableau dashboard. This dashboard provides a detailed view of movie genres, audience ratings, popularity trends, and seasonal release patterns to help identify high-performing genres, align productions with audience preferences, and optimize release timings for maximum ROI.
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/western.onzere/viz/MovieGenreAnalysis_17372417922390/Dashboard1)
 
 ### Data Understanding
 0.2. Import Data
@@ -170,3 +172,12 @@ These were the engineered columns
 - While high ratings are valuable, commercial success often depends on balancing quality with broad audience appeal. 
 - This approach allows the studio to effectively target diverse audience segments and maintain a competitive edge in the market.
 
+### Interactive Analysis With Tableau
+- Explore the insights and trends from the Movie Ratings Dataset through our interactive Tableau dashboard. This dashboard provides a detailed view of movie genres, audience ratings, popularity trends, and seasonal release patterns to help identify high-performing genres, align productions with audience preferences, and optimize release timings for maximum ROI.
+[\[View the Tableau Dashboard\]](https://public.tableau.com/app/profile/western.onzere/viz/MovieGenreAnalysis_17372417922390/Dashboard1)
+
+
+# For More Information
+See the full analysis in the Jupyter Notebook or review this presentation.
+Contact me at 
+[Linkedin](https://www.linkedin.com/in/western-onzere-ml17/)
