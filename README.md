@@ -1,5 +1,5 @@
 # Phase 2 Project : MOVIE DATA ANALYSIS
-
+![alt text](<images/Pasted image.png>)
 
 ### Business Problem
 
@@ -55,7 +55,7 @@ id, title, original_title, start_year, runtime_minutes, genres, averagerating, n
 ### Data preparation
 - Dropped null values and duplicates
 - Checking for Outliers
-![alt text](<Pictures/Screenshot 2025-01-18 232026.png>)
+![alt text](<Pictures/Screenshot 2025-01-18 232026 copy.png>)
 
 - Outliers can distort statistical analyses, skew model performance, and misrepresent data patterns. Removing them ensures more reliable insights and model accuracy. Using the IQR method, I identified and removed outliers lying beyond Q1-1.5*IQR and Q3-1.5*IQR, as this method robustly captures the central data while minimizing the impact of extreme values.
 
@@ -70,10 +70,10 @@ These were the engineered columns
 7. genre_list
 
 
-
 # Univariate Analysis
 ## 2.1. Runtime Analysis
 ![alt text](<Pictures/Screenshot 2025-01-19 024807.png>)
+
 ### 2.1.1. Observation
 - Most common runtime: The most frequent movie runtimes are clustered around the 90-minute mark, and somewhat around 100 minutes.
 - Typical Range: A majority of movies fall within the 80 to 110-minute range.
