@@ -1,5 +1,5 @@
 # Phase 2 Project : MOVIE DATA ANALYSIS
-![alt text](<images/Pasted image.png>)
+![alt text](<Pictures/Pasted image.png>)
 
 ### Business Problem
 
